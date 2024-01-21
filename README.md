@@ -31,7 +31,11 @@ In the voyage of data integration, we embark on a structured journey through thr
 ###  Tabular Cubes in SSAS: Shaping Strategic Insights
 Embedded within our SSAS framework, Tabular Cubes redefine data analytics at "Fantastic," offering a streamlined approach to organize, process, and swiftly extract strategic insights. These dynamic structures enhance data exploration, ensuring decision-makers seamlessly interpret vast datasets with agility.
 In exploiting specific queries and harnessing the power of data, we refine our calculations using Data Analysis Expressions (DAX). This approach not only enables a deeper understanding of our data but also empowers us to derive precise and contextual insights. The synergy of Tabular Cubes, SSAS, and DAX propels our analytical capabilities, paving the way for informed decision-making and strategic clarity at every level of our business endeavors.
+
+
+
 ![gzerh](https://github.com/nassifferjani/BI-Project---Sales-Analysis-at-Fantastic-using-SSIS-SSAS-and-Power-BI/assets/91385813/d0fcdf84-d6e4-4e77-bdf7-bbdeee2ecaee)
+
 
 
 ### Power BI Data Visualization: Transforming Insights at Fantastic
